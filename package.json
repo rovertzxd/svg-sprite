@@ -118,7 +118,6 @@
         5
       ],
       "max-params": "off",
-      "no-bitwise": "off",
       "no-negated-condition": "off",
       "node/prefer-promises/fs": "off",
       "object-curly-spacing": [
